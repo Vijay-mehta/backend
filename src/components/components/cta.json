@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_components_ctas",
+  "info": {
+    "displayName": "cta"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "hrfe": {
+      "type": "string"
+    }
+  }
+}

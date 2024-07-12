@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_event_layout_event_layouts",
+  "info": {
+    "displayName": "Event Layout"
+  },
+  "options": {},
+  "attributes": {
+    "logolink": {
+      "type": "string"
+    },
+    "logo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.logo"
+    },
+    "cta": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.cta"
+    }
+  }
+}
